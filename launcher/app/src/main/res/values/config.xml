@@ -1,0 +1,11 @@
+<resources>
+    <integer name="columns">4</integer>
+    <integer name="idle_seconds">60</integer>
+    <string name="greeting">Welcome Home</string>
+    <string-array name="dock_apps">
+        <item>com.amazon.firetv.youtube</item>
+        <item>com.netflix.ninja</item>
+        <item>com.amazon.firebat</item>
+        <item>in.startv.hotstar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+# Local tools, device records and private artwork
+.toolchain/
+backups/
+shots/
+design/
+PACKAGE-INVENTORY.md
+VERIFICATION.md
+ARTWORK.md
+disabled-by-us.txt
+change-log.jsonl
+home-change.json
+# Machine-specific configuration and generated output
+.gradle/
+**/build/
+launcher/local.properties
+local.properties
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.pem
+*.key
+*.p12
+*.pfx
+*.apk
+*.aab
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
